@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redhat-ai-dev/backstage-template-test.git"
+    "url": "git+https://github.com/redhat-developer/rhdh-backstage-template-test.git"
   },
   "keywords": [
     "backstage",
@@ -25,9 +25,9 @@
   "author": "Red Hat",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/redhat-ai-dev/backstage-template-test/issues"
+    "url": "https://github.com/redhat-developer/rhdh-backstage-template-test/issues"
   },
-  "homepage": "https://github.com/redhat-ai-dev/backstage-template-test#readme",
+  "homepage": "https://github.com/redhat-developer/rhdh-backstage-template-test#readme",
   "devDependencies": {
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
